@@ -1,5 +1,5 @@
 # SvgPlayground
 
-> Exploring svg animations
+> Exploring svg animations with GASP and VUE
 
 

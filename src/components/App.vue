@@ -56,12 +56,12 @@
   }
 
 
-  .logo {
-    animation: spin 4s 1s infinite linear
-  }
+  /*.logo {*/
+    /*animation: spin 4s 1s infinite linear*/
+  /*}*/
 
-  @keyframes spin {
-    from {transform:rotate(0deg);}
-    to {transform:rotate(360deg);}
-  }
+  /*@keyframes spin {*/
+    /*from {transform:rotate(0deg);}*/
+    /*to {transform:rotate(360deg);}*/
+  /*}*/
 </style>
